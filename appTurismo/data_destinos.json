@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "tipo": "nacionales",
+    "title": "Ica",
+    "descripcion": "accusamus beatae ad facilis cum",
+    "url": "https://raw.githubusercontent.com/FranciscoCandia/appTurismo/main/appTurismo/images/ica_turismo.jpg",
+    "tarifa": 84,
+    "dscto": 0.2
+  },
+  {
+    "id": 2,
+    "tipo": "nacionales",
+    "title": "Iquitos",
+    "descripcion": "accusamus beatae ad facilis cum",
+    "url": "https://raw.githubusercontent.com/FranciscoCandia/appTurismo/main/appTurismo/images/iquitos_turismo.jpeg",
+    "tarifa": 80,
+    "dscto": 0.2
+  },
+  {
+    "id": 3,
+    "tipo": "nacionales",
+    "title": "Cusoo",
+    "descripcion": "accusamus beatae ad facilis cum",
+    "url": "https://raw.githubusercontent.com/FranciscoCandia/appTurismo/main/appTurismo/images/cusco_turismo.jpg",
+    "tarifa": 96,
+    "dscto": 0
+  }
+]
